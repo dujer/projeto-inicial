@@ -1,4 +1,4 @@
-let numMax = 100;
+let numMax = 50;
 document.querySelector("input").max = numMax;
 
 let numeroSecreto = gerarNumero();
