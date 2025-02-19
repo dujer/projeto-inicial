@@ -1,4 +1,6 @@
-<h1>Jogo do numero secreto</h1>
-<p>Projeto para uso durante curso da Alura.</p>
-<p>É um jogo de adivinhar um numero gerado aleatoriamente.</p>
-<h2>Igor Rodrigues (AKA Dujer)</h2>
+
+<h1 align="center"> Jogo do numero secreto </h1>
+
+- `Projeto para uso durante curso da Alura.`
+- `É um jogo de adivinhar um numero gerado aleatoriamente.`
+<h5 align="right">Igor Rodrigues (AKA Dujer)</h5>
